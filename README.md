@@ -1,7 +1,6 @@
 #  Monitoramento Veicular IoT com CAN Bus, ESP32 e React Native
 
 **PUC MINAS | Projeto de Redes Veiculares**  
-**Integrantes:** 
 
 ---
 
